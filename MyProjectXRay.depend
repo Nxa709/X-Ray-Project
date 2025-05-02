@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1725631656 source:c:\users\nxusa vukile\desktop\myprojectxray\main.cpp
+	<iostream>
+	<fstream>
+	"Image.h"
+	"MyProjectXRay.h"
+	"EdgeFilter.h"
+
+1725627232 source:c:\users\nxusa vukile\desktop\myprojectxray\myprojectxray.cpp
+	"MyProjectXRay.h"
+	<iostream>
+	<sstream>
+
+1725625837 c:\users\nxusa vukile\desktop\myprojectxray\myprojectxray.h
+	<iostream>
+	"Image.h"
+
+1725625875 source:c:\users\nxusa vukile\desktop\myprojectxray\image.cpp
+	"Image.h"
+	"MyProjectXRay.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1725523058 c:\users\nxusa vukile\desktop\myprojectxray\image.h
+	<iostream>
+
+1725576241 source:c:\users\nxusa vukile\desktop\myprojectxray\filter.cpp
+	"Filter.h"
+	<iostream>
+
+1725631292 c:\users\nxusa vukile\desktop\myprojectxray\filter.h
+
+1725665284 source:c:\users\nxusa vukile\desktop\myprojectxray\edgefilter.cpp
+	"EdgeFilter.h"
+	"Filter.h"
+	"MyProjectXRay.h"
+	<iostream>
+
+1725631271 c:\users\nxusa vukile\desktop\myprojectxray\edgefilter.h
+	<iostream>
+	"Filter.h"
+
+1725890799 source:c:\users\general\desktop\myprojectxray\edgefilter.cpp
+	"EdgeFilter.h"
+	"Filter.h"
+	"MyProjectXRay.h"
+	<iostream>
+
+1725890799 c:\users\general\desktop\myprojectxray\edgefilter.h
+	<iostream>
+	"Filter.h"
+
+1725890799 c:\users\general\desktop\myprojectxray\filter.h
+
+1725890799 c:\users\general\desktop\myprojectxray\myprojectxray.h
+	<iostream>
+	"Image.h"
+
+1725890799 c:\users\general\desktop\myprojectxray\image.h
+	<iostream>
+
+1725890799 source:c:\users\general\desktop\myprojectxray\filter.cpp
+	"Filter.h"
+	<iostream>
+
+1725890799 source:c:\users\general\desktop\myprojectxray\image.cpp
+	"Image.h"
+	"MyProjectXRay.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1725890799 source:c:\users\general\desktop\myprojectxray\main.cpp
+	<iostream>
+	<fstream>
+	"Image.h"
+	"MyProjectXRay.h"
+	"EdgeFilter.h"
+
+1725890799 source:c:\users\general\desktop\myprojectxray\myprojectxray.cpp
+	"MyProjectXRay.h"
+	<iostream>
+	<sstream>
+
