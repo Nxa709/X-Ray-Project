@@ -1,0 +1,25 @@
+# Ignore compiled binary files
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+*.log
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.DS_Store
+
+# Ignore the output image files (can be regenerated)
+assets/image.ppm
+
+# Ignore backup files created by text editors
+*~
